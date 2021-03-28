@@ -21,7 +21,6 @@ h1 {
     font-size: 50px;
     text-align: center;
     font-weight: normal;
-    letter-spacing: 0.5px;
 }
 
 img {
@@ -33,10 +32,7 @@ img {
 h2 {
     font-size: normal;
     font-weight: normal;
-    letter-spacing: 0.5px;
-}
-
-
+ }
 
 p, li, a {
     font-size: 16px;
