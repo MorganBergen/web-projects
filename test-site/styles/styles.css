@@ -1,4 +1,4 @@
-h1 h2 h3 h4 p li {
+h1, h2, h3, h4, p, li {
     color: #0046E8;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
